@@ -3,6 +3,7 @@ import os
 
 root= Tk()
 root.title("XRUN")
+root.iconbitmap('1.ico')
 root.geometry("300x260")
 root.config(bg="black")
 root.resizable(False,False)
